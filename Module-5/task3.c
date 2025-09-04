@@ -5,7 +5,7 @@ int main() {
     float y = 3.7f;
     float b1 = x + y;
     int a = (int)(72.45 + 84.32);
-    float b = 44.32 + 51.54;
+    float b = (float)(44.32 + 51.54);
     float b2 = (float)53 + 2.54;
     float b3 = (float)12 + 22;
     int a2 = (int)64.2154;
