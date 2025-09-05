@@ -22,10 +22,10 @@ int main(){
             printf("Сегодня пятница\n");
             break;
         case 6:
-            printf("Сегодня суббота");
+            printf("Сегодня суббота\n");
             break;
         case 7:
-            printf("Сегодня воскресенье");
+            printf("Сегодня воскресенье\n");
             break;
         default:
             printf("Error!\n");
